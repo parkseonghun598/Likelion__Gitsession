@@ -3,6 +3,6 @@ my
 name
 is
 park sh
-i
-from
-North korea
+i 
+from 
+korea
